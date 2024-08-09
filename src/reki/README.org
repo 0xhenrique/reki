@@ -1,36 +1,40 @@
-# reki
+* reki
 
-FIXME: description
+ Yes. Just another CLI tool to fetch system information. 
 
-## Installation
+** Installation
 
-Download from http://example.com/FIXME.
+Clone this repo:
+ #+begin_src 
+git clone --depth=1 git@github.com:henrique-marques-vsoft/reki.git
+ #+end_src
 
-## Usage
+Have [[Leiningen][https://leiningen.org/]] installed in your machine and then run:
+ #+begin_src 
+   lein run
+ #+end_src
+ 
+Shrimple as that.
 
-FIXME: explanation
+** Usage
 
     $ java -jar reki-0.1.0-standalone.jar [args]
 
-## Options
+** Options
 
 FIXME: listing of options this app accepts.
 
-## Examples
+** Examples
 
 ...
 
-### Bugs
+*** Bugs
 
 ...
 
-### Any Other Sections
-### That You Think
-### Might be Useful
+** License
 
-## License
-
-Copyright © 2024 FIXME
+Copyright © 2024 Henrique Marques
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
