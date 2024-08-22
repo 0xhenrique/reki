@@ -1,26 +1,22 @@
-* reki
+#+TITLE: reki
+#+LANGUAGE: en
 
- Yes. Just another CLI tool to fetch system information. 
+[[./screenshot.png]]
+ Yet another CLI program to fetch system information.
 
 ** Installation
 
 Clone this repo:
-#+begin_src 
-$ git clone --depth=1 git@github.com:henrique-marques-vsoft/reki.git
-#+end_src
+ #+begin_src 
+git clone --depth=1 git@github.com:henrique-marques-vsoft/reki.git
+ #+end_src
 
 Have [[Leiningen][https://leiningen.org/]] installed in your machine and then run:
-#+begin_src 
-$ lein run
-#+end_src
+ #+begin_src 
+   lein run
+ #+end_src
  
 Shrimple as that.
-
-** Usage
-
-#+begin_src 
-$ java -jar target/uberjar/reki-0.1.0-SNAPSHOT-standalone.jar
-#+end_src
 
 ** License
 
