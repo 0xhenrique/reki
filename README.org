@@ -2,7 +2,8 @@
 #+LANGUAGE: en
 
 [[./screenshot.png]]
- Yet another CLI program to fetch system information.
+  
+Yet another CLI program to fetch system information.
 
 ** Installation
 
