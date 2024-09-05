@@ -61,7 +61,7 @@
   (println (get-os-figlet))
   (println (get-os-name))
   (println (get-font-family))
-  (println (get-uptime))
+  ;; (println (get-uptime))
   (println (get-memory-usage))
   (println (get-disk-usage))
   (println (get-shell-name)))
